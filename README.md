@@ -23,4 +23,3 @@ flowchart TD
     R --> S[Update final compliance status]
     S --> T[Enable option to submit letter for release]
     T --> U[End]
-Add compliance check flowchart
