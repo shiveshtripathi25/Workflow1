@@ -23,7 +23,7 @@ flowchart TD
     R --> S[Check payment of contributions]
     R --> T[Verify late/delayed contributions and correct challans]
     R --> U[Mark step as complete]
-    U --> V[Submit Security/Bank Guarantee Release]
+    U --> V[Security/Bank Guarantee Release]
     V --> W[Update final compliance status]
     W --> X[Enable option to submit letter for release]
     X --> Y[End]
